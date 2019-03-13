@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="catalina-tribes">
+    <CLASSES>
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/catalina-tribes.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/ecj-4.7.3a.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/servlet-api.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/jaspic-api.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/annotations-api.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/el-api.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/tomcat-util.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/catalina.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/tomcat-websocket.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/tomcat-jni.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/tomcat-coyote.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/jsp-api.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/catalina-ha.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/websocket-api.jar!/" />
+      <root url="jar://D:/Programming/TomcatForIDEA/lib/tomcat-dbcp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/out/artifacts/sbeam_war_exploded/upload/game/崩坏/describe/describe.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/sbeam_war_exploded/upload/game/明日之后/describe/describe.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/sbeam_war_exploded/upload/game/涂鸦跳跃/describe/describe.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/out/artifacts/sbeam_war_exploded/upload/game/王者荣耀/describe/describe.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/sbeam/po/ticket/Ticket.java" charset="UTF-8" />
+  </component>
+</project>
